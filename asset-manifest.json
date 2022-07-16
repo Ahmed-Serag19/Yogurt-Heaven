@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Yogurt-Heaven/static/css/main.6602a11f.css",
+    "main.js": "/Yogurt-Heaven/static/js/main.95bbfdbd.js",
+    "static/media/popup.png": "/Yogurt-Heaven/static/media/popup.41a8b241acb63ae528af.png",
+    "static/media/home.jpg": "/Yogurt-Heaven/static/media/home.189bc35d596ee7fea330.jpg",
+    "static/media/new-chills.png": "/Yogurt-Heaven/static/media/new-chills.4835585c91f0f9165c51.png",
+    "static/media/on-diet.png": "/Yogurt-Heaven/static/media/on-diet.23fed341d0ebb9c8d0b5.png",
+    "static/media/bg-header-about.jpg": "/Yogurt-Heaven/static/media/bg-header-about.bd3cfa1a2d6159354f71.jpg",
+    "static/media/yogurt.jpg": "/Yogurt-Heaven/static/media/yogurt.cf7e9b6d7950684e4918.jpg",
+    "static/media/blueberry.jpg": "/Yogurt-Heaven/static/media/blueberry.bbd91afd67b314121532.jpg",
+    "index.html": "/Yogurt-Heaven/index.html",
+    "main.6602a11f.css.map": "/Yogurt-Heaven/static/css/main.6602a11f.css.map",
+    "main.95bbfdbd.js.map": "/Yogurt-Heaven/static/js/main.95bbfdbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6602a11f.css",
+    "static/js/main.95bbfdbd.js"
+  ]
+}
