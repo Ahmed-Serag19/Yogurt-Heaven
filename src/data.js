@@ -57,7 +57,7 @@ export const thirdRow = {
     {
       id: 7,
       src: 'https://freewebsitetemplates.com/preview/frozenyogurtshop/images/grapes.jpg',
-      title: 'Grapes',
+      title: 'Grape',
     },
     {
       id: 8,
