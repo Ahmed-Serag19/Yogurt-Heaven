@@ -1,0 +1,25 @@
+footer {
+    color: white;
+    background-color: #C62739;
+    padding: 20px;
+    text-align: center;
+}
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer ul li {
+    padding: 20px 0px;
+}
+footer ul li a{
+    color: white;
+    font-size: 2rem;
+    margin: 0 25px;
+    transition: 0.5s all;
+}
+
+footer ul li a:hover {
+    color: #C8C10D;
+}

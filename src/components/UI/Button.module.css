@@ -1,0 +1,22 @@
+button {
+    border: 2px solid #cbb5bc;
+    color: #a5838e;
+    display: block;
+    font-family: "Lato";
+    font-size: 16px;
+    font-weight: normal;
+    height: 40px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 156px;
+    border-radius: 5px;
+    transition: 0.5s all;
+}
+
+button:hover {
+    color: white;
+    background-color: #C8C10D;
+}

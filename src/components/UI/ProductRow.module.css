@@ -1,0 +1,13 @@
+.main h3 {
+    color: #E32A62;
+}
+.main p {
+    color: #7A6666;
+}
+.main :first-child{
+    line-height: 50px;
+}
+.main h4 {
+    color: #E32A62;
+    font-weight: 400;
+}

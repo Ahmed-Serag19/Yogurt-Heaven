@@ -1,0 +1,32 @@
+*{box-sizing: border-box;}
+.about-img-container {
+   text-align: center;
+    background: #EBEBED;
+}
+.about-us {
+    color:#7A666F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.about-us h3 {
+    color: #CB3362;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+.left {
+    margin: 30px 0px;
+    padding: 10px 0px;
+    text-align: center;
+    background:#EFEDEE  ;
+    line-height: 55px;
+}
+.right {
+    margin: 30px 0px;
+    padding: 10px 0px;
+    background:#EFEDEE  ;
+    line-height: 30px;
+}
+/* #CB3362  #7A666F */

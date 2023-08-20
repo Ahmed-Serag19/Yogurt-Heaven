@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Magra:wght@400;700&family=Quicksand:wght@400;500;700&display=swap');
+.main {
+    background-color: #f8f8f8;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+}
+.mainImage {
+   position: relative;
+   top: 0;
+   left: 20%;
+}
+.icon-container { 
+    color: #FFFFFF;
+    display: block;
+    font-family: "Quicksand";
+    font-weight: bold;
+    font-size: 24px;
+    font-weight: normal;
+    height: 160px;
+    line-height: 24px;
+    margin: 0;
+    padding: 52px 0 0;
+    position: absolute;
+    right: 19%;
+    text-align: center;
+    text-transform: uppercase;
+    top: 600px;
+    width: 160px;
+    z-index: 90;
+    background: url("../../images/circles.png") no-repeat  ;
+    
+}
+/* .icon-links ul li h4 {
+    color: white;
+} */
+.icon-container a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.4rem;
+}
+.newProduct {
+    display: flex;
+    background-color: #EAE7E8;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.newProduct :first-child{
+    line-height: 30px;
+    
+    
+}
+.newProduct :first-child h5{
+    color: #7A6666;
+    
+}
+.newProduct :first-child h3{
+    color: #E32A62;
+    font-family:"Magra";
+    font-weight: 700;
+    
+    
+}
+.icon-links{
+    background: #C8C10D;
+    color: white;
+    padding: 30px;
+   
+}
+.icon-links h4 {
+    font-weight: 400;
+}
+.icon-links ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-links ul li {
+    text-align: center;
+    padding: 0px 50px;
+    transition: 0.5s all;
+    cursor: pointer;
+}
+
+.icon-links ul li:hover {
+    color: #E32A62;
+}
